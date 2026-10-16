@@ -1,75 +1,61 @@
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="Erkenaz | Data, Engineering, Automation" />
+<img src="./assets/cosmic-hero.svg" width="100%" alt="Animated cosmic banner — ERKENAZ" />
 
-<br />
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=3200&pause=1100&color=67E8F9&center=true&vCenter=true&width=650&lines=Python+%E2%80%A2+SQL+%E2%80%A2+PostgreSQL;Data+Analytics+%26+Engineering;Curious+mind.+Real+projects." alt="Animated tech introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=850&color=67E8F9&center=true&vCenter=true&width=680&lines=Turning+engineering+ideas+into+real+projects;Exploring+data%2C+automation+and+AI;Learning+%E2%86%92+Building+%E2%86%92+Improving" alt="Typing animation" />
 
-[![Explore repositories](https://img.shields.io/badge/EXPLORE_REPOSITORIES-0B1533?style=for-the-badge&logo=github&logoColor=67E8F9)](https://github.com/Erkenaz1?tab=repositories)
-
-</div>
-
-<br />
-
-### `01 // ABOUT THE EXPLORER`
-
-**Hi, I'm Erkenaz.** I'm a 2026 **IT & Power Engineering** graduate from **ALT University**, interested in using data and software to solve engineering problems.
-
-I work with **Python, SQL and PostgreSQL**, and I'm developing projects in **analytics, automation and software testing**. I'm also exploring AI/ML — as a learning direction, not a claim of professional experience.
-
-🎓 **Graduated with honors** &nbsp; · &nbsp; 🌍 **Kazakhstan** &nbsp; · &nbsp; 🚀 **Open to junior opportunities**
-
-<br />
-
-### `02 // TECHNOLOGY CONSTELLATION`
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,postgres,linux,ubuntu,docker,git,github,vscode,postman&theme=dark" alt="Python, PostgreSQL, Linux, Ubuntu, Docker, Git, GitHub, VS Code, Postman" />
-
-<br /><br />
-
-![pandas](https://img.shields.io/badge/pandas-0B1533?style=for-the-badge&logo=pandas&logoColor=67E8F9)
-![NumPy](https://img.shields.io/badge/NumPy-0B1533?style=for-the-badge&logo=numpy&logoColor=67E8F9)
-![SQL](https://img.shields.io/badge/SQL-0B1533?style=for-the-badge&logo=postgresql&logoColor=67E8F9)
-![MATLAB](https://img.shields.io/badge/MATLAB-0B1533?style=for-the-badge)
+[![Repositories](https://img.shields.io/badge/EXPLORE_PROJECTS-081A35?style=for-the-badge&logo=github&logoColor=67E8F9)](https://github.com/Erkenaz1?tab=repositories)
 
 </div>
 
-<br />
+## `01 // MISSION CONTROL`
 
-### `03 // FEATURED MISSIONS`
+**Hi, I'm Erkenaz** — an **IT & Power Engineering graduate** from **ALT University (2026)**, based in Kazakhstan.
+
+I combine an engineering background with a growing interest in **data analytics, software and automation**. I'm developing hands-on projects using Python, SQL and PostgreSQL, while exploring QA and AI/ML.
+
+**Focus:** Data Analytics · Python · SQL · Engineering · Automation
+
+## `02 // TECH UNIVERSE`
 
 <div align="center">
 
-<img src="assets/project-01.svg" width="49%" alt="Product Analytics" /> <img src="assets/project-02.svg" width="49%" alt="API to PostgreSQL" />
+<img src="https://skillicons.dev/icons?i=python,postgres,linux,ubuntu,docker,git,github,vscode,postman&theme=dark" alt="Technology stack" />
 
-<img src="assets/project-03.svg" width="49%" alt="Energy Analytics" /> <img src="assets/project-04.svg" width="49%" alt="QA Practice" />
+<br/><br/>
 
-<sub>Project write-ups and repository links are being prepared.</sub>
+![pandas](https://img.shields.io/badge/pandas-11152D?style=for-the-badge&logo=pandas&logoColor=67E8F9)
+![NumPy](https://img.shields.io/badge/NumPy-11152D?style=for-the-badge&logo=numpy&logoColor=67E8F9)
+![SQL](https://img.shields.io/badge/SQL-11152D?style=for-the-badge&logo=postgresql&logoColor=67E8F9)
+![MATLAB](https://img.shields.io/badge/MATLAB-11152D?style=for-the-badge)
 
 </div>
 
-<br />
+## `03 // SELECTED MISSIONS`
 
-### `04 // MISSION MILESTONES`
+<div align="center">
+<table><tr><td width="50%"><img src="./assets/mission-01.svg" alt="Product Analytics" /></td><td width="50%"><img src="./assets/mission-02.svg" alt="API to PostgreSQL" /></td></tr><tr><td width="50%"><img src="./assets/mission-03.svg" alt="Energy Analytics" /></td><td width="50%"><img src="./assets/mission-04.svg" alt="QA Practice" /></td></tr></table>
 
-🥉 **Alem Tech Fest 2026 — RoboCup Rescue:** 3rd place  
-🥈 **Satbayev International Conference 2026 Hackathon:** 2nd place, Mechanical & Power Engineering  
-🎓 **ALT University:** Bachelor's degree with honors
+*Portfolio documentation and project links are being prepared.*
 
-<br />
+</div>
 
-### `05 // SIGNALS FROM GITHUB`
+## `04 // MILESTONES`
+
+🥉 **3rd place** — Alem Tech Fest 2026, RoboCup Rescue  
+🥈 **2nd place** — Satbayev International Conference 2026 Hackathon (Mechanical & Power Engineering)  
+🎓 **Graduated with honors** — ALT University, 2026
+
+## `05 // LIVE TELEMETRY`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Erkenaz1&show_icons=true&hide_border=true&bg_color=08152C&title_color=67E8F9&text_color=C4D4EB&icon_color=A78BFA" width="49%" alt="GitHub statistics" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erkenaz1&layout=compact&hide_border=true&bg_color=08152C&title_color=67E8F9&text_color=C4D4EB" width="43%" alt="GitHub languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=Erkenaz1&show_icons=true&hide_border=true&bg_color=050816&title_color=67E8F9&text_color=CBD5E1&icon_color=A78BFA" height="165" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erkenaz1&layout=compact&hide_border=true&bg_color=050816&title_color=67E8F9&text_color=CBD5E1" height="165" alt="GitHub languages" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Erkenaz1&bg_color=08152C&color=67E8F9&line=A78BFA&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub activity" />
-
-<br />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Erkenaz1&bg_color=050816&color=67E8F9&line=A78BFA&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution graph" />
 
 **✦ STAY CURIOUS · KEEP BUILDING · REACH FOR THE STARS ✦**
 
